@@ -1,0 +1,74 @@
+/* css de la página salas */
+
+.imagen-sala{
+  width: 100%;
+  height: 100%;
+  padding-top: 100px
+}
+
+.metodo-texto{
+  border-style: solid;
+  border-width: medium;
+  border-color: #006847;
+  width: 400px;
+}
+
+.cant-numero{
+  border-style: solid;
+  border-width: medium;
+}
+.cant{
+  text-align: center;
+}
+
+.titulo-producto{
+  color: #006847;
+  font-size: 4rem;
+}
+.numero-parte{
+  color: #118586;
+  font-weight: lighter;
+}
+.precio{
+  color: #118586;
+}
+
+.rebajas{
+  color: #118586;
+  font-weight: lighter;
+}
+.precio-rebaja{
+  color: #118586;
+  font-size: 4rem;
+}
+
+.metodo-pago{
+  color: #006847;
+}
+.metodo{
+  color: #118586;
+  font-size: 2rem;
+  font-weight: lighter;
+  text-align: center;
+  padding: 2% 5%;
+}
+.cantidad{
+  color: #118586;
+}
+.agregar-carrito{
+  padding: 5% 0;
+  text-align: center;
+  color: #006847;
+  width: 200px;
+}
+
+.carrito{
+  background-color: #006847;
+  width: 500px;
+  height: 100px;
+  text-align: center;
+  padding: 5% 0;
+}
+.carrito-texto{
+  color: white;
+}
